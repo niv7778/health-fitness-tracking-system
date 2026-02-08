@@ -1,0 +1,6 @@
+ Trigger: When a new record is created in Airtable
+- Action:
+  - Find user based on email
+  - Link record to corresponding user
+- Result:
+  - Ensures automatic user–record association
