@@ -1,0 +1,11 @@
+- Users
+  - Stores user profile information
+- Workout Logs
+  - Linked to Users
+  - Stores workout type and calories burned
+- Daily Activity
+  - Linked to Users
+  - Stores steps and daily activity metrics
+- Goals
+  - Linked to Users
+  - Stores target fitness goals
